@@ -670,7 +670,7 @@
         "enabled": true,
         "general_extra": "",
         "general_keywords": "{title}",
-        "general_query": "2",
+        "general_query": "",
         "language": null,
         "languages": "en",
         "login_failed": "",
